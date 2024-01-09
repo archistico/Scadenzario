@@ -1,0 +1,12 @@
+C:\Users\ROLLANDINE\source\repos\scadenzario\scadenzario\bin\Release\scadenzario.exe
+C:\Users\ROLLANDINE\source\repos\scadenzario\scadenzario\bin\Release\scadenzario.pdb
+C:\Users\ROLLANDINE\source\repos\scadenzario\scadenzario\bin\Release\scadenzario.xml
+C:\Users\ROLLANDINE\source\repos\scadenzario\scadenzario\obj\Release\scadenzario.Form1.resources
+C:\Users\ROLLANDINE\source\repos\scadenzario\scadenzario\obj\Release\scadenzario.frmScadenza_Eseguito.resources
+C:\Users\ROLLANDINE\source\repos\scadenzario\scadenzario\obj\Release\scadenzario.Resources.resources
+C:\Users\ROLLANDINE\source\repos\scadenzario\scadenzario\obj\Release\scadenzario.vbproj.GenerateResource.cache
+C:\Users\ROLLANDINE\source\repos\scadenzario\scadenzario\obj\Release\scadenzario.vbproj.CoreCompileInputs.cache
+C:\Users\ROLLANDINE\source\repos\scadenzario\scadenzario\obj\Release\scadenzario.exe
+C:\Users\ROLLANDINE\source\repos\scadenzario\scadenzario\obj\Release\scadenzario.xml
+C:\Users\ROLLANDINE\source\repos\scadenzario\scadenzario\obj\Release\scadenzario.pdb
+C:\Users\ROLLANDINE\source\repos\scadenzario\scadenzario\obj\Release\scadenzario.vbprojAssemblyReference.cache

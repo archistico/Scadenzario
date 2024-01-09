@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ESEGUITI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ESEGUITO>
+    <ID>1cdcb2f1-cfcd-4a95-8031-3f41b01ca97c</ID>
+    <ATTIVITA>prova</ATTIVITA>
+    <DATASCADENZA>2024-01-31T00:00:00</DATASCADENZA>
+    <DATAESEGUITO>2024-01-09T00:00:00+01:00</DATAESEGUITO>
+  </ESEGUITO>
+</ESEGUITI>
